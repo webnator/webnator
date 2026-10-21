@@ -15,7 +15,6 @@ I like small teams, useful products, and making complicated things feel simple. 
 Most of my professional work lives in private repositories. Here are a few public projects you can explore:
 
 - **[brain-inbox](https://github.com/webnator/brain-inbox)**: a small Telegram tool for capturing text and voice notes and pulling them into Markdown. Node.js, Groq transcription, and Docker. A personal tool, with room to improve.
-- **[todo-app](https://github.com/webnator/todo-app)**: an architecture exercise with shared task lists, React, Node.js, PostgreSQL, and an Electron client. Includes tests and notes on the design choices.
 - **[http-rabbitmq](https://github.com/webnator/http-rabbitmq)**: an earlier published Node.js library for handling HTTP-style requests over RabbitMQ. Historical work, with older dependencies.
 
 ### How I work
