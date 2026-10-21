@@ -12,10 +12,16 @@ I like small teams, useful products, and making complicated things feel simple. 
 
 ### Public code
 
-Most of my professional work lives in private repositories. Here are a few public projects you can explore:
+Most of my professional work lives in private repositories. These public projects show some of what I build and explore:
 
-- **[brain-inbox](https://github.com/webnator/brain-inbox)**: a small Telegram tool for capturing text and voice notes and pulling them into Markdown. Node.js, Groq transcription, and Docker. A personal tool, with room to improve.
-- **[http-rabbitmq](https://github.com/webnator/http-rabbitmq)**: an earlier published Node.js library for handling HTTP-style requests over RabbitMQ. Historical work, with older dependencies.
+- **[Day Two](https://github.com/webnator/day-two-app)**: a personal journaling app with an Expo mobile client, local storage, transcription, and a TypeScript backend. A work-in-progress source snapshot with tests, not an app-store release.
+- **[Task Agent](https://github.com/webnator/trello-agent)**: a Telegram-controlled coding-agent workflow with a task queue, GitHub PRs, and CI integration. A personal automation tool with documented execution and merge behavior.
+- **[Second Brain Add-ons](https://github.com/webnator/second-brain-addons)**: reflection skills and note templates I added to an Obsidian/Claude Code workflow, building on Jesús Copado's template.
+- **[brain-inbox](https://github.com/webnator/brain-inbox)**: capture Telegram text and voice notes into Markdown.
+- **[Lab Notebook](https://github.com/webnator/lab-notebook)**: hands-on AI engineering experiments, with measurements and notes on what I learned.
+- **[Entre](https://github.com/webnator/mediacion-demo)**: an Astro content-site demo with a local editing workshop, schema validation, and tests.
+
+Earlier work includes **[http-rabbitmq](https://github.com/webnator/http-rabbitmq)**, a published Node.js library, and **[gait-app](https://github.com/webnator/gait-app)**, an Ionic app from my thesis.
 
 ### How I work
 
